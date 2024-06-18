@@ -2,18 +2,21 @@
 
 欢迎来到我的 GitHub 主页！
 
-我正在学习 .NET 开发，研究 Web 前后端的开发技术。同时，我也在学习函数式编程的基础知识。
+我正在学习 Linux 平台下的 Rust 开发。也在了解 Linux 系统的安全机制。
+
+我正在寻找一份开发、运维相关的工作，如果您有相关的职位空缺，欢迎来联系我。
 
 为什么不去[我的博客](https://www.jswn9945.xyz)看看呢？
 
 Welcome to my GitHub homepage!
 
-I am learning about .NET development, and studying Web front-end and back-end development. At the same time, I am learning about basics of functional programming.
+I am learning Rust development on Linux platform. Also learning about security mechanisms in Linux systems.
+
+I am looking for a development, operations and maintenance related job, if you have a relevant job opening, please feel free to come and contact me.
 
 Why not check out [my blog](https://www.jswn9945.xyz)?
-<!--
-**Jisu-Woniu/Jisu-Woniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
